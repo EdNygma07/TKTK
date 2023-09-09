@@ -3,4 +3,5 @@ O WinRar vai ser útil para destravar os arquivos com senha.
 Nessa mesma pasta há um arquivo com senha, baixe e coloque a senha: teste123.
 Já sabendo como se abre os arquivos, busquem a senha nos enigmas.
 A senha encontrada no post do TikTok abrirá o primeiro arquivo de cada fase aqui do GitHub.
+A fase estará concluída quando encontrarem o personagem.
 Boa sorte!
