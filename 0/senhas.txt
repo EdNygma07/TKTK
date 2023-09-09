@@ -2,10 +2,12 @@
 1/ichi = senhaahnes
 2/listen = floresta
 2/go = isaacnewton
-3/fase3 = atenas
-3/roku = 661850
-4/fase4 = princesa
-4/ni = themagician
+
+
+4/fase4 = atenas
+4/roku = 661850
+5/fase5 = princesa
+5/ni = themagician
 
 
 E - Edward
